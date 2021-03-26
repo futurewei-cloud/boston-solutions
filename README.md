@@ -1,2 +1,2 @@
 # boston-solutions
-solutions team projects
+solutions team projects place holder.
